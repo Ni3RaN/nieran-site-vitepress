@@ -65,7 +65,7 @@ sudo apt-get install libjsoncpp-dev
 
 - 创建数据库
 
-```MySQL
+```bash
 // 建立yourdb库
 create database yourdb;
 
